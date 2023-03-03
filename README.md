@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Muhammad-Radwan
-- 👀 I’m interested in C#, Xamarin, ASP
+- 👀 I’m interested in C#, Xamarin, ASP, .net MAUI, Python
 - 🌱 I’m currently learning Asp .Net Core
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gh93st@live.com - 00218910184901
